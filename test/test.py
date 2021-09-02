@@ -3,3 +3,6 @@ def master_commit2():
 
 def firstcommit_v2():
     pass
+
+def secondcommit_v2():
+    pass
