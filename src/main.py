@@ -3,3 +3,6 @@ def second_commit():
 
 def master_rebase():
     pass
+
+def logout_dev2():
+    pass
