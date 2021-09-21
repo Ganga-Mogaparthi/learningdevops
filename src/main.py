@@ -3,3 +3,6 @@ def second_commit():
 
 def master_rebase():
     pass
+
+def tag_lightweight():
+    pass
